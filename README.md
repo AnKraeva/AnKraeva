@@ -10,15 +10,13 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python&logoColor=3c78a9)
-![Pandas](https://img.shields.io/badge/pandas-FFE4E1?style=for-the-badge&logo=pandas&logoColor=3c78a9)
-![NumPy](https://img.shields.io/badge/numpy-FFE4E1?style=for-the-badge&logo=numpy&logoColor=4c74cc)
-![SciPy](https://img.shields.io/badge/SciPy-FFE4E1?style=for-the-badge&logo=scipy&logoColor=%3c78a9)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFE4E1?style=for-the-badge&logo=Clickhouse&logoColor=3c78a9)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFE4E1?style=for-the-badge&logo=PostgreSQL&logoColor=3c78a9)
-![Plotly](https://img.shields.io/badge/-Plotly-FFE4E1?style=for-the-badge&logo=Plotly&logoColor=3c78a9)
-![Tableau](https://img.shields.io/badge/-Tableau-FFE4E1?style=for-the-badge&logo=Tableau&logoColor=3c78a9)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FFE4E1?style=for-the-badge&logo=Apache%20Airflow&logoColor=3c78a9)
+![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python&logoColor=9370DB)
+![Pandas](https://img.shields.io/badge/pandas-FFE4E1?style=for-the-badge&logo=pandas&logoColor=9370DB)
+![NumPy](https://img.shields.io/badge/numpy-FFE4E1?style=for-the-badge&logo=numpy&logoColor=9370DB)
+![SciPy](https://img.shields.io/badge/SciPy-FFE4E1?style=for-the-badge&logo=scipy&logoColor=9370DB)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFE4E1?style=for-the-badge&logo=Clickhouse&logoColor=9370DB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFE4E1?style=for-the-badge&logo=PostgreSQL&logoColor=9370DB)
+![Tableau](https://img.shields.io/badge/-Tableau-FFE4E1?style=for-the-badge&logo=Tableau&logoColor=9370DB)
 
 </div>
 
