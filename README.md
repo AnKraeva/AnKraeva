@@ -1,7 +1,7 @@
 <div align="center">
 
 # Привет, я Анна 👋
-[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnnaKraeva23)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-0b0038?style=flat-square&logo=telegram)](https://t.me/AnnaKraeva23)
 [![DISCORD](https://img.shields.io/badge/DISCORD-0b0038??style=flat-square&logo=DISCORD)](https://discordapp.com/users/annakraeva/)
 </div>
 
