@@ -3,6 +3,7 @@
 # Привет, я Анна 👋
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-0b0038??style=flat-square&logo=telegram)](https://t.me/AnnaKraeva23)
 [![DISCORD](https://img.shields.io/badge/DISCORD-0b0038??style=flat-square&logo=DISCORD)](https://discordapp.com/users/annakraeva/)
+[![GMAIL](https://img.shields.io/badge/-GMAIL-0b0038??style=flat-square&logo=gmail&logoColor=white)](mailto:a.kraeva23@gmail.com)
 </div>
 
 ## Обо мне
