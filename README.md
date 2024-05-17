@@ -28,13 +28,9 @@
 
 ## Курсы
 
-[![KC](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/c5443997-e8e8-4c73-b270-23c0aab3cc00/)<br>
-
-![Stepik](https://img.shields.io/badge/Stepik-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-blue?)
-
 [![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)](https://lab.karpov.courses/certificate/c5443997-e8e8-4c73-b270-23c0aab3cc00/)<br>
 
-
+[![Stepik](https://img.shields.io/badge/Stepik-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-blue)](https://stepik.org/cert/866923/)<br>
 
 <div align="center">
 
