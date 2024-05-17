@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Анна 👋
+# Привет, меня зовут Анна 👋
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-0b0038??style=flat-square&logo=telegram)](https://t.me/AnnaKraeva23)
 [![DISCORD](https://img.shields.io/badge/DISCORD-0b0038??style=flat-square&logo=DISCORD)](https://discordapp.com/users/annakraeva/)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-0b0038??style=flat-square&logo=gmail&logoColor=white)](mailto:a.kraeva23@gmail.com)
@@ -29,6 +29,8 @@
 ## Курсы
 
 [![Аналитик данных](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/c5443997-e8e8-4c73-b270-23c0aab3cc00/)<br>
+
+<img class="navbar__logo" alt="Stepik" src="/static/frontend/topbar_logo.svg">
 
 <div align="center">
 
