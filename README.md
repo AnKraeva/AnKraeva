@@ -2,8 +2,9 @@
 
 # Привет, меня зовут Анна 👋
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-0b0038??style=flat-square&logo=telegram)](https://t.me/AnnaKraeva23)
-[![DISCORD](https://img.shields.io/badge/DISCORD-0b0038??style=flat-square&logo=DISCORD)](https://discordapp.com/users/annakraeva/)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-0b0038??style=flat-square&logo=gmail&logoColor=white)](mailto:a.kraeva23@gmail.com)
+[![DISCORD](https://img.shields.io/badge/DISCORD-0b0038??style=flat-square&logo=DISCORD)](https://discordapp.com/users/annakraeva/)
+
 </div>
 
 ## Обо мне
@@ -29,8 +30,8 @@
 ## Курсы
 
 [![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)](https://lab.karpov.courses/certificate/c5443997-e8e8-4c73-b270-23c0aab3cc00/)<br>
-
-[![Stepik](https://img.shields.io/badge/Stepik-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-blue)](https://stepik.org/cert/866923/)<br>
+[![KC](https://img.shields.io/badge/Karpov.courses-Основы_Python-red)](https://lab.karpov.courses/certificate/73693d0c-40cb-42cb-9a33-f505798e2fdd/)<br>
+[![Stepik](https://img.shields.io/badge/Stepik-Основы_статистики-blue)](https://stepik.org/cert/866923/)<br>
 
 <div align="center">
 
