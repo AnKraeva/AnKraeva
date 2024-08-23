@@ -8,7 +8,7 @@
 </div>
 
 ## Обо мне
-+ я - аналитик данных с опытом в молекулярной биологии
++ я - аналитик данных с большим опытом в науке
 + люблю структурировать информацию и рисовать красивые графики
 + всегда ищу в данных неочевидные паттерны
 + имею высшее биологическое и дополнительное образование в области аналитики
@@ -24,6 +24,8 @@
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFE4E1?style=for-the-badge&logo=Clickhouse&logoColor=9370DB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFE4E1?style=for-the-badge&logo=PostgreSQL&logoColor=9370DB)
 ![Tableau](https://img.shields.io/badge/-Tableau-FFE4E1?style=for-the-badge&logo=Tableau&logoColor=9370DB)
+![Grafana](https://img.shields.io/badge/-Grafana-FFE4E1?style=for-the-badge&logo=Grafana&logoColor=9370DB)
+
 
 </div>
 
