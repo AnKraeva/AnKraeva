@@ -34,6 +34,7 @@
 [![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)](https://lab.karpov.courses/certificate/c5443997-e8e8-4c73-b270-23c0aab3cc00/)<br>
 [![KC](https://img.shields.io/badge/Karpov.courses-Основы_Python-red)](https://lab.karpov.courses/certificate/73693d0c-40cb-42cb-9a33-f505798e2fdd/)<br>
 [![Stepik](https://img.shields.io/badge/Stepik-Основы_статистики-blue)](https://stepik.org/cert/866923/)<br>
+[![Stepik](https://img.shields.io/badge/Stepik-SQL_для_анализа_данных-blue)](https://stepik.org/cert/1747143/)<br>
 
 <div align="center">
 
