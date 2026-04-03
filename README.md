@@ -35,8 +35,4 @@
 [![Stepik](https://img.shields.io/badge/Stepik-Основы_статистики-blue)](https://stepik.org/cert/866923/)<br>
 [![Stepik](https://img.shields.io/badge/Stepik-SQL_для_анализа_данных-blue)](https://stepik.org/cert/1747143/)<br>
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankraeva&theme=buefy&show_icons=true)
-
 </div>
