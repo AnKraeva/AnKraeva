@@ -7,32 +7,18 @@
 </div>
 
 ## Обо мне
-+ я - аналитик данных с большим опытом в науке
-+ люблю структурировать информацию и рисовать красивые графики
-+ всегда ищу в данных неочевидные связи
-+ имею высшее биологическое и дополнительное образование в области аналитики
++ Аналитик данных с биологическим бэкграундом
++ Занимаюсь полным циклом анализа: от обработки данных до интерпретации и визуализации результатов
++ Интересуюсь прикладными R&D задачами на стыке биологии и аналитики
++ Люблю находить закономерности в данных и превращать их в понятные выводы  
 
-## Инструменты 🔧
+## Инструменты 
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-FFE4E1?style=for-the-badge&logo=python&logoColor=9370DB)
+![SQL](https://img.shields.io/badge/SQL-FFE4E1?style=for-the-badge&logo=databricks&logoColor=9370DB)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFE4E1?style=for-the-badge&logo=jupyter&logoColor=9370DB)
+![BI](https://img.shields.io/badge/BI%20Tools-FFE4E1?style=for-the-badge&logo=powerbi&logoColor=9370DB)
+![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=9370DB)
 
-![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python&logoColor=9370DB)
-![Pandas](https://img.shields.io/badge/pandas-FFE4E1?style=for-the-badge&logo=pandas&logoColor=9370DB)
-![NumPy](https://img.shields.io/badge/numpy-FFE4E1?style=for-the-badge&logo=numpy&logoColor=9370DB)
-![SciPy](https://img.shields.io/badge/SciPy-FFE4E1?style=for-the-badge&logo=scipy&logoColor=9370DB)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFE4E1?style=for-the-badge&logo=Clickhouse&logoColor=9370DB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFE4E1?style=for-the-badge&logo=PostgreSQL&logoColor=9370DB)
-![Tableau](https://img.shields.io/badge/-Tableau-FFE4E1?style=for-the-badge&logo=Tableau&logoColor=9370DB)
-![Grafana](https://img.shields.io/badge/-Grafana-FFE4E1?style=for-the-badge&logo=Grafana&logoColor=9370DB)
-
-
-</div>
-
-## Курсы
-
-[![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)](https://lab.karpov.courses/certificate/c5443997-e8e8-4c73-b270-23c0aab3cc00/)<br>
-[![KC](https://img.shields.io/badge/Karpov.courses-Основы_Python-red)](https://lab.karpov.courses/certificate/73693d0c-40cb-42cb-9a33-f505798e2fdd/)<br>
-[![Stepik](https://img.shields.io/badge/Stepik-Основы_статистики-blue)](https://stepik.org/cert/866923/)<br>
-[![Stepik](https://img.shields.io/badge/Stepik-SQL_для_анализа_данных-blue)](https://stepik.org/cert/1747143/)<br>
 
 </div>
